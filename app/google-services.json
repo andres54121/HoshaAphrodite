@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "692294544535",
+    "firebase_url": "https://prueba-babde.firebaseio.com",
+    "project_id": "prueba-babde",
+    "storage_bucket": "prueba-babde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692294544535:android:a0e005bc28f8714c714dd2",
+        "android_client_info": {
+          "package_name": "com.company.afrodita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692294544535-6v0m935temc8hqk8li91h0ier8tek8ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeAYquBXVxlDvsqHxaByAEeabUHlNcLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692294544535-6v0m935temc8hqk8li91h0ier8tek8ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692294544535:android:66b380a57445edb9714dd2",
+        "android_client_info": {
+          "package_name": "com.example.hshaaphrodite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692294544535-6v0m935temc8hqk8li91h0ier8tek8ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeAYquBXVxlDvsqHxaByAEeabUHlNcLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692294544535-6v0m935temc8hqk8li91h0ier8tek8ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
